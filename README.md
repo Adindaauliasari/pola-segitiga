@@ -28,7 +28,7 @@ int main()
         
         for (k = 1; k <= i; k++) {
         
-            cout << k; 
+            cout <<k; 
             
             cout << " ";
         }
@@ -36,5 +36,6 @@ int main()
         
         k = k - 1;
     }
+    
     return 0;
 }
