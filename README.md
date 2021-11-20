@@ -10,8 +10,6 @@ int main()
     
     cout << "-- Segitiga Sama Sisi   --\n";
     
-    cout << "-- Balog18.blogspot.com --\n";
-    
     cout << "--------------------------\n";
     
     cout << "Masukkan Tinggi :";
