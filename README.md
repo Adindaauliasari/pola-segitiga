@@ -3,7 +3,9 @@
 using namespace std;
  
 int main()
-{	
+
+{
+
     int rows, i, j, k, l = 1;
     
     cout << "--------------------------\n";
