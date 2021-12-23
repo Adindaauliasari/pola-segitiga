@@ -10,7 +10,7 @@ int main()
     
     cout << "--------------------------\n";
     
-    cout << "-- Segitiga Sama Sisi   --\n";
+    cout << "-- Segitiga Sama Sisi--\n";
     
     cout << "--------------------------\n";
     
