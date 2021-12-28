@@ -14,7 +14,7 @@ int main ()
     
     cout << "--------------------------\n";
     
-    cout << "Masukkan Tinggi :";
+    cout << "Masukkan Tinggi :" ;
     
     cin >> rows;
     
