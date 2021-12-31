@@ -6,7 +6,7 @@ int main ()
 
 {
 
-    int rows  i, j, k, l = 1;
+    int rows  i, j, k, l = 1 ;
     
     cout << "--------------------------\n" ;
     
@@ -30,7 +30,7 @@ int main ()
         
             cout << k ; 
             
-            cout << " ";
+            cout << " " ;
         }
         cout << "\n" ;
         
