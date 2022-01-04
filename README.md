@@ -28,9 +28,9 @@ int main ()
         
         for (k = 1; k <= i; k++) {
         
-            cout << k ; 
+            cout << k; 
             
-            cout << " " ;
+            cout << " ";
         }
         cout << "\n" ;
         
